@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import Note from "./Note";
 import CreateArea from "./CreateArea";
 import Appwatch from "./Appwatch";
+import "./App.css";
 
 function App() {
   const [notes, setNotes] = useState([]);
